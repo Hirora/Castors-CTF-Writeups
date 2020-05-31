@@ -5,7 +5,7 @@ Starting this challenge, we were greeted with the message "A1l3N thought this wa
 
 ![Challenge GIF](chal.gif)
 
-As soon as I opened the GIF, it was immediately fairly obvious what the point of this challenge was; frame by frame neon green numbers flashed up and slowly dissapeared as more numbers appeared.
+As soon as I opened the GIF, it was immediately fairly obvious what the point of this challenge was; frame by frame neon green numbers flash up and slowly dissapeared as more numbers appeared.
 
 
 #### The process

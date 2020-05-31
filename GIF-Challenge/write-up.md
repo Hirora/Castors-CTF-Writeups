@@ -1,7 +1,9 @@
 # GIF Challenge Write-Up
 
 #### Upon introduction
-Starting this challenge, we were greeted with the message "A1l3N thought this was funny so we turned it into a challenge." and an attached gif: "chall.gif".
+Starting this challenge, we were greeted with the message "A1l3N thought this was funny so we turned it into a challenge." and an attached gif: "chal.gif".
+
+![Challenge GIF](chal.gif)
 
 As soon as I opened the GIF, it was immediately fairly obvious what the point of this challenge was; frame by frame neon green numbers flashed up and slowly dissapeared as more numbers appeared.
 

@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 After a long 3 minutes and 32 seconds of accepting my rickroll, I hopped back into solving this challenge.
 
-#### Most Siginficant Bits
+#### Most Significant Bits
 
 So the first attempt was evidently too obvious- the challenge wants me to look harder. Then, it hit me: Most Significant Bits.
 I immediately hopped into my program of choice, stegsolver, to extract the most significant bytes. After selecting the Red Green and Blue, Most Significant Bit, bit planes, I conveniently found the lyrics to Never Gonna Give You Up, all throughout the extracted data. *I can definitely hear Jigglypuff's song at this point.*

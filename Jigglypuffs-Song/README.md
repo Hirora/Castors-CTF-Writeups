@@ -1,5 +1,7 @@
 # Jigglypuffs Song Challenge Write-Up
 
+![Challenge Preview](image.png)
+
 #### Upon Introduction
 
 Starting this challenge, we were greeted with the message "Can you hear Jigglypuff's song?" and an attached PNG: "chal.png". 

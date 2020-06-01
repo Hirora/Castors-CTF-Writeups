@@ -1,9 +1,10 @@
-# Jigglypuffs Song Write-Up
+# Jigglypuffs Song Challenge Write-Up
 
 #### Upon Introduction
 
 Starting this challenge, we were greeted with the message "Can you hear Jigglypuff's song?" and an attached PNG: "chal.png". 
 
+![Challenge Image](chal.png)
 
 Upon opening the image, it's immediately obvious this is no ordinary image of Jigglypuff, this image has definitely been manipulated in some way and it's pretty obvious something is being hidden here.
 

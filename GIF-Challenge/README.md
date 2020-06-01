@@ -1,5 +1,7 @@
 # GIF Challenge Write-Up
 
+![Challenge Preview](image.png)
+
 #### Upon introduction
 Starting this challenge, we were greeted with the message "A1l3N thought this was funny so we turned it into a challenge." and an attached gif: "chal.gif".
 

@@ -19,7 +19,7 @@ Starting off, I initialize each string of hex encoded characters, from the start
 encoded = ["63617374","6f72734354","467b723178","54795f","6d316e","757433735f6774","5f73317874795f6d","316e757433","737d"]
 ```
 
-Next, I establish the variable `string = ""` and then loop through the array, decoding the hex into UTF-8 format and then appending this to the string varialbe:
+Next, I establish the variable `string = ""` and then loop through the array, decoding the hex into UTF-8 format and then appending this to the string variable:
 
 ```
 for i in encoded:

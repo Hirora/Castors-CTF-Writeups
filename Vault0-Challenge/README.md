@@ -1,4 +1,4 @@
-# Vault 0
+# Vault 0 Challenge Write-Up
 
 ![Challenge Preview](image.png)
 
